@@ -1,0 +1,6 @@
+D:\C#\Hexadecimal conversion\Hexadecimal conversion\bin\Release\Hexadecimal conversion.dll
+D:\C#\Hexadecimal conversion\Hexadecimal conversion\bin\Release\Hexadecimal conversion.pdb
+D:\C#\Hexadecimal conversion\Hexadecimal conversion\bin\Release\Wox.Plugin.dll
+D:\C#\Hexadecimal conversion\Hexadecimal conversion\obj\Release\Hexadecimal conversion.csprojResolveAssemblyReference.cache
+D:\C#\Hexadecimal conversion\Hexadecimal conversion\obj\Release\Hexadecimal conversion.dll
+D:\C#\Hexadecimal conversion\Hexadecimal conversion\obj\Release\Hexadecimal conversion.pdb
